@@ -1,5 +1,5 @@
 # ABND - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-These are the ten projects I made during the Android Basics Nanodegree course:
+Android Basics Nanodegree by Google - the perfect start for anyone who wants to get into application development but doesn't know how to write a single line of code. In 6 months you will get familiar with the basics of android development and in the end build your own applications. This repository is to showcase what you will learn and make - here are my 10 projects:
 
 ### Project 1 - Single Screen App
 
@@ -131,4 +131,4 @@ These are the ten projects I made during the Android Basics Nanodegree course:
 * Integrating Android’s file storage systems into that database
 * Presenting information from files and SQLite databases to users
 * Updating information based on user input.
-*Creating intents to other apps using stored information.
+* Creating intents to other apps using stored information.

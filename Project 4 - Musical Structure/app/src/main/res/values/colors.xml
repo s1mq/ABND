@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c6ff</color>
+    <color name="colorPrimaryDark">#0072ff</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="gradient_start_color">#0072ff</color>
+    <color name="gradient_end_color">#00c6ff</color>
+    <color name="colorWhiteTransparent25">#40e0e0e0</color>
+    <color name="colorWhiteTransparent80">#CCe0e0e0</color>
+</resources>

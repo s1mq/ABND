@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.NowPlaying">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/descriptionTextView"
+            android:text="@string/now_playing_activity_description" />
+
+        <ImageView
+            style="@style/albumArt"
+            android:contentDescription="@string/album_cover_image" />
+
+        <TextView
+            style="@style/artistTextView"
+            android:layout_marginStart="@dimen/view_margin" />
+
+        <TextView
+            style="@style/albumtTextView"
+            android:layout_marginStart="@dimen/view_margin" />
+
+        <TextView
+            style="@style/songTextView"
+            android:layout_marginStart="@dimen/view_margin" />
+
+        <SeekBar style="@style/seekBar" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/view_margin"
+            android:layout_marginStart="@dimen/view_margin">
+
+            <ImageButton
+                style="@style/imageButton"
+                android:contentDescription="@string/thumbs_up"
+                android:src="@drawable/ic_thumb_up" />
+
+            <ImageButton
+                style="@style/imageButton"
+                android:contentDescription="@string/previous_song"
+                android:src="@drawable/ic_navigate_before" />
+
+            <ImageButton
+                style="@style/imageButton"
+                android:contentDescription="@string/play"
+                android:src="@drawable/ic_play_arrow" />
+
+            <ImageButton
+                style="@style/imageButton"
+                android:contentDescription="@string/next_song"
+                android:src="@drawable/ic_navigate_next" />
+
+            <ImageButton
+                style="@style/imageButton"
+                android:contentDescription="@string/thumbs_down"
+                android:src="@drawable/ic_thumb_down" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

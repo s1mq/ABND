@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.Discover">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/descriptionTextView"
+            android:text="@string/discovery_activity_description" />
+
+        <EditText
+            style="@style/editText"
+            android:drawableStart="@drawable/search_icon">
+        </EditText>
+
+        <TextView style="@style/genreTextView" />
+
+        <View style="@style/dividerView" />
+
+        <HorizontalScrollView style="@style/horizontalScrollView">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_1"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_2"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_3"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_4"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_5"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </HorizontalScrollView>
+
+        <TextView style="@style/genreTextView" />
+
+        <View style="@style/dividerView" />
+
+        <HorizontalScrollView style="@style/horizontalScrollView">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_6"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_7"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_8"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_9"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_10"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </HorizontalScrollView>
+
+        <TextView style="@style/genreTextView" />
+
+        <View style="@style/dividerView" />
+
+        <HorizontalScrollView style="@style/horizontalScrollView">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_11"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_12"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_13"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_14"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/albumLinearLayout">
+
+                    <ImageView
+                        android:id="@+id/album_cover_15"
+                        style="@style/albumCoverImageView"
+                        android:contentDescription="@string/album_cover_image" />
+
+                    <TextView style="@style/artistTextView" />
+
+                    <TextView style="@style/albumtTextView" />
+                </LinearLayout>
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+</ScrollView>

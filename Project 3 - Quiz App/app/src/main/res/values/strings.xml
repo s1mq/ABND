@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OK, Google?</string>
+    <string name="question_one_text">This man represents the art of what?</string>
+    <string name="question_one_radio_one">RandyRolling</string>
+    <string name="question_one_radio_two">RickRolling</string>
+    <string name="question_one_radio_three">RexRolling</string>
+    <string name="question_two_text">What is the name of Geralt of Rivia\'s horse?</string>
+    <string name="question_two_radio_one">Shadowflame</string>
+    <string name="question_two_radio_two">Nightsteed</string>
+    <string name="question_two_radio_three">Thunderbolt</string>
+    <string name="question_two_radio_four">Roach</string>
+    <string name="question_three_text">Whom of the following have used the alias Robin?</string>
+    <string name="question_three_check_one">Sweeney Todd</string>
+    <string name="question_three_check_two">Dick Grayson</string>
+    <string name="question_three_check_three">Tim Drake</string>
+    <string name="question_three_check_four">Jason Todd</string>
+    <string name="question_three_check_five">John McClane</string>
+    <string name="question_four_text">What is the name of Blizzard\'s popular MMORPG?</string>
+    <string name="question_four_radio_one">World of Starcraft</string>
+    <string name="question_four_radio_two">World of Diablo</string>
+    <string name="question_four_radio_three">World of Overwatch</string>
+    <string name="question_four_radio_four">World of Warcraft</string>
+    <string name="question_five_text">What car is being pictured?</string>
+    <string name="question_five_radio_one">Lada Žiguli</string>
+    <string name="question_five_radio_two">McLaren P1</string>
+    <string name="question_six_text">What is the answer to life and the universe and everything?</string>
+    <string name="number_hint_text">Think of a number</string>
+    <string name="result_button">Result</string>
+    <string name="content_image">Image</string>
+</resources>

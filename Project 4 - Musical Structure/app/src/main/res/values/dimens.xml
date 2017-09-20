@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_margin">16dp</dimen>
+    <dimen name="view_margin_big">48dp</dimen>
+    <dimen name="view_margin_medium">24dp</dimen>
+    <dimen name="logo_text_size">50sp</dimen>
+    <dimen name="button_text_size">24sp</dimen>
+    <dimen name="album_text_size">16sp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_bottom_margin">8dp</dimen>
+    <dimen name="album_layout_bottom_margin">4dp</dimen>
+    <dimen name="album_art_height">300dp</dimen>
+    <dimen name="white_space">36dp</dimen>
+</resources>

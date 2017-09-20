@@ -1,0 +1,171 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="descriptionTextView" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/view_margin</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+    </style>
+
+    <style name="playlistButtons" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/view_margin</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="logoLayout" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin_big</item>
+        <item name="android:layout_marginEnd">@dimen/view_margin_medium</item>
+        <item name="android:layout_marginStart">@dimen/view_margin_medium</item>
+        <item name="android:layout_marginTop">@dimen/view_margin_medium</item>
+    </style>
+
+    <style name="logoText" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/logo_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="logoTextTwo" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/logo_text_size</item>
+    </style>
+
+    <style name="mainButtons" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin</item>
+        <item name="android:layout_marginEnd">@dimen/view_margin_big</item>
+        <item name="android:layout_marginStart">@dimen/view_margin_big</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+
+    <style name="editText" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/view_margin</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+        <item name="android:padding">@dimen/view_margin</item>
+        <item name="android:textColorHint">@color/colorAccent</item>
+        <item name="android:hint">Search for Music</item>
+    </style>
+
+    <style name="genreTextView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/view_margin</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:text">@string/song_genre</item>
+    </style>
+
+    <style name="dividerView" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/divider_height</item>
+        <item name="android:layout_marginBottom">@dimen/divider_bottom_margin</item>
+        <item name="android:layout_marginEnd">@dimen/view_margin</item>
+        <item name="android:layout_marginStart">@dimen/view_margin</item>
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+    <style name="horizontalScrollView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin</item>
+    </style>
+
+    <style name="albumLinearLayout" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/view_margin</item>
+        <item name="android:layout_marginEnd">@dimen/divider_bottom_margin</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="albumCoverImageView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/album_layout_bottom_margin</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+        <item name="android:src">@drawable/album_cover</item>
+    </style>
+
+    <style name="artistTextView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/album_layout_bottom_margin</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:text">@string/artist_name</item>
+    </style>
+
+    <style name="albumtTextView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/album_layout_bottom_margin</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/album_text_size</item>
+        <item name="android:text">@string/album_name</item>
+    </style>
+
+    <style name="albumArt" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/album_art_height</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/album_cover</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+        <item name="android:layout_margin">@dimen/view_margin</item>
+    </style>
+
+    <style name="songTextView" parent="AppTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:text">@string/song_name</item>
+        <item name="android:layout_marginStart">@dimen/view_margin</item>
+        <item name="android:layout_marginBottom">@dimen/white_space</item>
+    </style>
+
+    <style name="seekBar" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/view_margin</item>
+        <item name="android:layout_marginEnd">@dimen/view_margin</item>
+        <item name="android:layout_marginBottom">@dimen/divider_bottom_margin</item>
+    </style>
+
+    <style name="imageButton" parent="AppTheme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+</resources>

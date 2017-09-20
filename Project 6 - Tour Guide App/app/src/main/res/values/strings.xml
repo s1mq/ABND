@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_sights">Sightseeing</string>
+    <string name="category_events">Events</string>
+    <string name="category_food">Food</string>
+    <string name="category_accommodation">Accommodation</string>
+    <string name="episcopal_castle_desc">The Haapsalu Bishop’s Castle and Cathedral, which was
+        established in the 13th century as the centre of the Saare-Lääne Diocese, is one of the
+        best preserved castles in Estonia. Visit the museum complex in the convent building where
+        you will find exhibition halls with finds from the castle and mysterious vaulted cellars.
+        Rent an audio guide for tour commentary in six languages.
+        \nInteresting facts:
+        \n* You might encounter Estonia’s most famous ghost – the White Lady.
+        \n* In the moat, you will find a stylized medieval children’s playground, a large
+        chessboard, archery grounds and clay workshop.
+        \n* Climb the 38-metre-high bell tower and at noon listen to the carillon that is heard
+        throughout the city.
+        \n* In the summer, take advantage of the busy events calendar.</string>
+    <string name="episcopal_castle">Episcopal Castle</string>
+    <string name="tchaikovsky_bench">Tchaikovsky\'s Bench</string>
+    <string name="tchaikovsky_bench_desc">The world-famous Russian composer Pjotr Tchaikovsky s
+        tayed in Haapsalu in 1867. To commemorate him, a memorial bench was erected on the
+        Šokolaadi Promenaad, where the maestro loved to watch the sunrise from the shore and
+        marvel the swans. Interesting to know: in Haapsalu, Tchaikovsky continued to work on his
+        opera \"Voevoda\" and composed the cycle of piano pieces \"Souvenir de Hapsal\". After
+        having heard the Estonian folk song \"Dear Mary\", he later used the melody in his famous
+        VI Symphony, the first notes of the tune were also carved into the dolomite memorial bench.
+        Today, the bench is equipped with a technical solution with the aid of which you can listen
+        to the composer\'s music and information related to him.</string>
+    <string name="maria_magdaleena_church">Maria-Magdaleena Church</string>
+    <string name="maria_magdaleena_church_desc">The Estonian Orthodox Maria Magdaleena Church is
+        located in an idyllic area of Haapsalu – on the Promenade. Russian Tsar Alexander II
+        attended the opening of the church in 1852.
+        \nThe church was restored to its present state only a few years ago. The church is open on
+        Sundays from 9 am to noon. To visit at other times, please contact us in advance.
+        Interesting fact: The church and the surrounding buildings are depicted in Ilon Wikland’s
+        book Long, Long Journey. Ilon Wikland, who was the illustrator of Astrid Lindgren’s books,
+        describes her Haapsalu childhood in the book.</string>
+    <string name="railway_station">Haapsalu Railway Station</string>
+    <string name="railway_station_desc">This resort town was a favourite summer spot of Russian
+        tzars. The railway station was built according to original drawings; the complex consists
+        of four parts: passenger terminal, imperial pavilion, a sheltered passage linking those,
+        and a unique covered platform that is 213.6 m long.
+        \nGood to know: the Russian Tzar himself was in favour of the idea to build this station
+        and supported the construction. The first passenger train arrived in Haapsalu in 1904;
+        the last one left in 1995. Take advantage of a unique opportunity to travel from Haapsalu
+        to Riisipere (50 km) by bike – the old railway bed has been turned into Lääne County health trail.
+        \nToday, there is a bus stop in front of the railway station.
+        \nIt belongs in the National Register of Cultural Monuments.</string>
+    <string name="ungru_manor">Ungru manor</string>
+    <string name="ungru_manor_desc">The ruins of the Ungru manor used to represent one of the most
+        impressive Neo-Baroque buildings in Estonia, although it never was really finished. Its
+        sophisticated footprint and the numerous baroque volute ornaments on its gables are
+        characteristic for the castle.
+        \nInteresting to know: The Ungru Manor was an almost exact copy of the Merseburg castle in
+        Germany. After World War II the manor fell into the hands of Soviet troops, in 1968 the
+        chief of the airport decided to use the ruins of the manor to fill in the holes in the
+        runway. About one third of the manor was torn down, fortunately the rest was preserved
+        until today. Compare the neat ruins of the manor to the contrasting Soviet airfield remains
+        next to them</string>
+    <string name="sun_dial">Haapsalu Sundial</string>
+    <string name="sun_dial_desc">There is sundial designed by artist Roman Haavamäe on the Haapsalu
+        seaside Promenade. The face of the dial depicts the life of man – starting with a child and
+        ending with an old man supported by a cane. On the Promenade also admire the decorative
+        dolomite stairways and decorative columns by the same artist, as well as the ornamented
+        stairs on both sides of the Assembly Hall. Interesting fact: The sundial shows the local
+        sun time, which is about 90 slower than daylight savings time. Go and check to see if your
+        watch is correct.</string>
+    <string name="epp_maria">Epp Maria Gallery</string>
+    <string name="epp_maria_desc">The creative work of Epp Maria Kokamägi, one of Estonia\’s most
+        famous artists, includes oil paintings, watercolours, book design and theatre and film
+        design. The building, which was built as a café during Estonia\'s first period of
+        independence, now houses a gallery over two floors, where exhibitions change according to
+        the seasons. In addition to Epp Maria\'s wonderful paintings, you can also enjoy the
+        paintings and furniture created by her husband Jaak Arro, the ceramics of Liisu Arro and
+        the paintings of Imbi Lind.</string>
+    <string name="old_town">Old Town</string>
+    <string name="old_town_desc">Haapsalu, which is bordered by the sea on three sides, fits on a
+        piece of land with a size of just 10.59 km2. The Old Town is located on a peninsula with
+        two eskers, which continue to the north-west as a chain of islets (holms) connected to the
+        mainland. There are low meanders between the holms – Suur and Väike Viik.
+        \nThe culturally and environmentally valuable Old Town of Haapsalu can be divided into its
+        medieval section and the 20th century health resort area. The medieval part is around the
+        Episcopal castle, with the medieval network of Kooli, Jaani, Vee, Linda, Rüütli and V
+        äike-Mere Streets and buildings. It is surrounded by a belt of wooden houses and the
+        Promenade, Aafrika beach and parks.</string>
+    <string name="bird_tower">Gulf Tagalaht and Birdwatching Tower</string>
+    <string name="bird_tower_desc">For most of the year the Gulf Tagalaht in Haapsalu is an
+        exciting place for birdwatching. There is no need to leave town, simply visit the 15-metre
+        high birdwatching tower on the Promenade. When visiting the tower you will get a full
+        overview of birdlife in the area between Haapsalu and Noarootsi. When the ice breaks in
+        April and May, the gulf is filled with swans and different types of ducks. In autumn – in
+        September and October – it is interesting to witness the departure of geese and cranes.</string>
+    <string name="beach_promenade">Africa Beach and Promenade</string>
+    <string name="beach_promenade_desc">The splendour of Haapsalu, the famous Czarist era resort,
+        is recalled by the seafront Promenade and its jewel - the Assembly Hall with its wooden
+        “gingerbread”. Walk on the sloping promenade and glance dreamily at the sea; check the time
+        at the sundial and have a rest on the bench named for the world-famous composer Tchaikovsky.
+        nInteresting facts: The Promenade starts at the exotically named Africa Beach, and ends at
+        the Chocolate Promenade, which is named after a former café. There is a children’s
+        playground on the Promenade and the town’s only observation tower. There is also a monument
+        to Carl Hunnius, the discoverer of Haapsalu’s therapeutic mud behind the band shell.</string>
+    <string name="museum_night">Museum Night</string>
+    <string name="museum_date">20.05</string>
+    <string name="kuursaal_opening">Kuursaal\'s season opening party</string>
+    <string name="kuursaal_date">20.05</string>
+    <string name="graphic_design">Graphical design festival</string>
+    <string name="graphic_date">27.05 – 25.06</string>
+    <string name="fairy_tale_conference">Fairy tale conference</string>
+    <string name="fairy_tale_date">1.06</string>
+    <string name="italy_wine">Italy\'s wine days</string>
+    <string name="wine_date">2.06 – 3.06</string>
+    <string name="al_bano">Al Bano Carrisi concert</string>
+    <string name="al_bano_date">3.06</string>
+    <string name="flag_day">Estonian flag day</string>
+    <string name="flag_day_date">4.06</string>
+    <string name="kreeg_days">Nargenfestival Kreeg\'s days</string>
+    <string name="kreeg_days_date">10.06 – 11.06</string>
+    <string name="vaiko_elite">Night concert Vaiko Eplik and the ELIIT</string>
+    <string name="vaiko_elite_date">15.06</string>
+    <string name="midsummer_festival">Midsummer fire festival</string>
+    <string name="midsummer_date">23.06 – 24.06</string>
+    <string name="tchaikovsky_haapsalu">Tchaikovsky\'s Haapsalu</string>
+    <string name="tchaikovsky_haapsalu_date">28.06 – 1.07</string>
+    <string name="vanamuusika">Old Music festival</string>
+    <string name="old_music_date">5.07 – 9.07</string>
+    <string name="summer_play">Summer Play</string>
+    <string name="summer_play_date">5.07 – 23.07</string>
+    <string name="regatta">Muhu Gulf\'s Regatta</string>
+    <string name="regatta_date">7.07</string>
+    <string name="beauty_car_show">American Beauty Car Show</string>
+    <string name="beauty_car_show_date">14.07 – 16.07</string>
+    <string name="yoga_festival">Yoga festival</string>
+    <string name="yoga_festival_date">21.07 – 23.07</string>
+    <string name="rock_haapsalu">Rock in Haapsalu</string>
+    <string name="rock_haapsalu_date">28.07 – 29.07</string>
+    <string name="august_blues">August Blues</string>
+    <string name="august_blues_date">4.08 – 6.08</string>
+    <string name="white_lady">Time of The White Lady</string>
+    <string name="white_lady_date">11.08 – 13.08</string>
+    <string name="accordion_festival">Accordion festival</string>
+    <string name="accordion_festival_date">12.08</string>
+    <string name="lade_day">Lace day</string>
+    <string name="lace_day_date">13.08</string>
+    <string name="taste_promenade">The Promenade of Tastes</string>
+    <string name="taste_promenade_date">19.08</string>
+    <string name="belinda">Belinda Carlisle and Shanon</string>
+    <string name="belinda_date">19.08</string>
+    <string name="nostalgia">Nostalgia Days</string>
+    <string name="nostalgia_date">8.09 – 10.09</string>
+    <string name="margot">Greek restaurant Margot Food and Style</string>
+    <string name="margot_address">Posti tänav 37, Haapsalu 90502 | (+372) 473 5003</string>
+    <string name="fra_mare_restaurant">Fra Mare restaurant \"Bergfeldt\"</string>
+    <string name="fra_mare_address">Ranna tee 2, Haapsalu 90403 | (+372) 472 4605</string>
+    <string name="dietrich">Cafe Hapsal Dietrich</string>
+    <string name="dietrich_address">Karja tänav 10, Haapsalu 90503 | (+372) 509 4549</string>
+    <string name="fast_rabbitt">Restaurant Fast Rabbit</string>
+    <string name="fast_rabbit_address">Karja tänav 5, Haapsalu 90502 | (+372) 510 5396</string>
+    <string name="bakery">Müüriääre Bakery</string>
+    <string name="bakery_address">Karja tänav 7, Haapsalu 90502 | (+372) 506 0924</string>
+    <string name="grande">Pizza Grande</string>
+    <string name="grande_address">Karja tn 6, Haapsalu 90503 | (+372) 473 7200</string>
+    <string name="taksi_pub">Taksi Pub</string>
+    <string name="taksi_pub_address">Posti tänav 29, Haapsalu 90502 | (+372) 504 7428</string>
+    <string name="talumehe">Talumehe Tavern</string>
+    <string name="talumehe_address">Karja tn 2, Haapsalu 90503 | (+372) 530 62755</string>
+    <string name="fra_mare_spa">Fra Mare Thalasso SPA</string>
+    <string name="fra_mare_spa_address">Ranna tee 2, Haapsalu | (+372) 472 4600</string>
+    <string name="sunset_dream">Sunset Dream Apartment</string>
+    <string name="sunset_dream_address">Suur-Liiva tänav 15, Haapsalu | (+372) 604 2204</string>
+    <string name="baltic_hotel">Baltic Hotel Promenaadi</string>
+    <string name="baltic_hotel_address">Sadama tänav 22, Haapsalu | (+372) 473 7250</string>
+    <string name="marienholm">Marienholm Villa</string>
+    <string name="marienholm_address">Väike-Viigi tänav 10, Haapsalu | (+372) 563 91671</string>
+    <string name="hotel_day_villa">Hotel Päeva Villa</string>
+    <string name="hotel_day_vill_address">Lai tänav 7, Haapsalu | (+372) 534 88222</string>
+    <string name="reta_house">Reta\'s House Accommodation</string>
+    <string name="reta_house_address">Posti tänav 25, Haapsalu | (+372) 566 87802</string>
+    <string name="supeluse">Supeluse Guesthouse</string>
+    <string name="supeluse_address">Supeluse tänav 4, Haapsalu | (+372) 564 66880</string>
+    <string name="attractionimage">AttractionImage</string>
+    <string name="episcopal_castle_maps">Lossiplats tn 3, Haapsalu</string>
+    <string name="tchaikovsky_maps">P. Tshaikovski puiestee, Haapsalu</string>
+    <string name="magdaleena_maps">Rüütli tn 2, Haapsalu</string>
+    <string name="railway_maps">Raudtee tänav 2, Haapsalu</string>
+    <string name="ungru_maps">Ungru Loss, Kiltsi küla, Ridala vald, Lääne maakond</string>
+    <string name="sun_dial_maps">Promenaadi tn, Haapsalu</string>
+    <string name="epp_maria_maps">Kalda tänav 2, Haapsalu</string>
+    <string name="old_town_maps">Karja tn, Haapsalu</string>
+    <string name="bird_maps">Promenaadi tn 3, Haapsalu 90502</string>
+    <string name="promenade_maps">Promenaadi tänav, Haapsalu</string>
+
+</resources>

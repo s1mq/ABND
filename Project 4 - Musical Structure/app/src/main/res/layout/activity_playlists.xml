@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.Playlists">
+
+    <TextView
+        style="@style/descriptionTextView"
+        android:text="@string/playlists_activity_description" />
+
+    <Button
+        style="@style/playlistButtons"
+        android:text="@string/new_playlist" />
+
+    <Button
+        android:id="@+id/playlist_one"
+        style="@style/playlistButtons"
+        android:text="@string/playlist_one" />
+
+    <Button
+        android:id="@+id/playlist_two"
+        style="@style/playlistButtons"
+        android:text="@string/playlist_two" />
+
+    <Button
+        android:id="@+id/playlist_three"
+        style="@style/playlistButtons"
+        android:text="@string/playlist_three" />
+
+    <Button
+        android:id="@+id/playlist_four"
+        style="@style/playlistButtons"
+        android:text="@string/playlist_four" />
+
+</LinearLayout>

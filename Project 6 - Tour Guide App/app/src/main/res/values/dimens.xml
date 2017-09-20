@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="attraction_name_size">24sp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_padding_two">8dp</dimen>
+</resources>
